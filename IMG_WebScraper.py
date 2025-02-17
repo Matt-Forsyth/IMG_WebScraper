@@ -43,7 +43,7 @@ def get_next_filename(base_folder):
     return index, index_file
 
 def download_images(image_urls):
-    base_folder = "Scraped Content"
+    base_folder = "/home/matthew/Desktop/Scraped"
     start_index, index_file = get_next_filename(base_folder)
     
     for i, url in enumerate(image_urls):

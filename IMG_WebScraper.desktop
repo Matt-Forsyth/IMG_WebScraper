@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=IMG_WebScraper
+Comment=Scrape the web for images!
+Exec=python3 \home\matthew\Desktop\Projects\Personal\IMG_WebScraper\IMG_WebScraper.py
+Icon=\home\matthew\Desktop\Projects\Personal\IMG_WebScraper\icon.png
+Terminal=true
+Type=Application
+Categories=Graphics;Utility;
